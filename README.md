@@ -3,7 +3,7 @@
 ## Video Show Case
 
 <div align="center">
-  <video src="/showcase.mp4" />
+  <video src="./public/showcase.mp4" />
 </div>
 
 ## 🚀 Tecnologias Utilizadas
