@@ -19,6 +19,6 @@ Feito isso, no terminal:
 > cd github.com/LuckxSz/VITE_WEB_CONVERSOR
 
 # Execute o projeto com:
-> start index.html # Para usuários de Windows
-> open index.html # Para usuários de Linux/Mac
+
+> npm run dev # Para usuários de Linux/Mac
 ```
