@@ -1,8 +1,24 @@
-# React + Vite
+## Currency Converter with Vite and MaterialUi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Tecnologias Utilizadas
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 📖 Clonando o Projeto
+
+Para clonar e executar este projeto em seu computador, você precisará apenas que o [Git](https://git-scm.com/) esteja previamente instalado.<br>
+Feito isso, no terminal:
+
+```bash
+# Clone esse repositório com:
+> git clone https://github.com/Luk4x/github-profile-background-photo.git
+
+# Entre no repositório com:
+> cd github-profile-background-photo
+
+# Execute o projeto com:
+> start index.html # Para usuários de Windows
+> open index.html # Para usuários de Linux/Mac
+```
+
+## 🤝 Contato dos Contribuintes
