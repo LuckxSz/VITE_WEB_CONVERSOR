@@ -1,10 +1,8 @@
 ## Currency Converter with Vite and MaterialUi
 
 ## Video Show Case
-
-<div align="center">
-  <video src="./public/showcase.mp4" />
-</div>
+![image](https://github.com/LuckxSz/VITE_WEB_CONVERSOR/assets/135531180/c39f75f8-78c9-4fea-9c06-e3e3c2cd0f14)
+![image](https://github.com/LuckxSz/VITE_WEB_CONVERSOR/assets/135531180/c53cc328-8d7e-4d8c-ae32-4a1d15319b67)
 
 ## 🚀 Tecnologias Utilizadas
 
