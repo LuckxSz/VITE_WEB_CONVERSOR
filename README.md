@@ -13,6 +13,6 @@ Feito isso, no terminal:
 > cd github.com/LuckxSz/VITE_WEB_CONVERSOR
 
 # Execute o projeto com:
-
-> npm run dev # Para usuários de Linux/Mac
+> npm i 
+> npm run dev 
 ```
